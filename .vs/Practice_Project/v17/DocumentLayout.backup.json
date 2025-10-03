@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|C:\\Users\\bebo\\source\\repos\\Practice_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|C:\\Users\\bebo\\source\\repos\\Practice_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|C:\\Users\\bebo\\source\\repos\\Practice_Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|c:\\users\\bebo\\source\\repos\\practice_project\\quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|C:\\Users\\bebo\\source\\repos\\Practice_Project\\quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|C:\\Users\\bebo\\source\\repos\\Practice_Project\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|C:\\Users\\bebo\\source\\repos\\Practice_Project\\tasbeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:tasbeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|C:\\Users\\bebo\\source\\repos\\Practice_Project\\tasbeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE2F03-349F-4D10-8D38-4E6E68C43DBF}|Practice_Project.csproj|solutionrelative:tasbeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quran.cs",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Quran.cs",
+              "RelativeDocumentMoniker": "Quran.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Quran.cs",
+              "RelativeToolTip": "Quran.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAawAgBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:04:00.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Quran.cs",
+              "RelativeDocumentMoniker": "Quran.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Quran.cs [Design]",
+              "RelativeToolTip": "Quran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:40:56.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:28:04.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tasbeh.cs",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Tasbeh.cs",
+              "RelativeDocumentMoniker": "Tasbeh.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Tasbeh.cs",
+              "RelativeToolTip": "Tasbeh.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAwwI4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:50:23.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tasbeh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Tasbeh.cs",
+              "RelativeDocumentMoniker": "Tasbeh.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Tasbeh.cs [Design]",
+              "RelativeToolTip": "Tasbeh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:39:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:29:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:20:17.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "HomeScreen.cs",
+              "ToolTip": "C:\\Users\\bebo\\source\\repos\\Practice_Project\\HomeScreen.cs [Design]",
+              "RelativeToolTip": "HomeScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:20:02.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
