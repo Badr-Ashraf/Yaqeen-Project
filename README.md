@@ -24,9 +24,8 @@ The app includes accurate prayer times with notifications, a collection of daily
 ## Installation  
 
 - Download the latest version of the app from the link below:  
-  [Download Yaqeen Setup](#)  
 
-*([Replace with your actual download link or app store page](https://github.com/Badr-Ashraf/Yaqeen-Project/releases/tag/v1.0.0))*  
+*([Download Yaqeen Setup](https://github.com/Badr-Ashraf/Yaqeen-Project/releases/tag/v1.0.0))*  
 
 ---
 
